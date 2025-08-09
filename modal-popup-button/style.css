@@ -54,3 +54,19 @@ button:hover{
   font-size: 14px;
   opacity: .7;
 }
+
+.modal{
+  background: #fff;
+  border-radius: 5px;
+  padding: 25px;
+  width: 300px;
+  max-width: 100%;
+  text-align: center;
+}
+.modal h1{
+  margin: 0;
+}
+.modal p{
+  font-size: 14px;
+  opacity: .7;
+}
